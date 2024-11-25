@@ -57,9 +57,9 @@ With this app, you can organize and keep track of your plant care effortlessly. 
 ## 🎨 Layout
 
 You can access the Plant Manager design on Figma!  
-[**Check it out here**](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1).  
+[**Check it out here**](https://www.figma.com/design/CFQOEw7eEG0aQ7YWGUMaL2/PlantManager).  
 
-![App Preview](https://github.com/razevedocosta/nlw05-plantmanager/blob/main/assets/preview.png?raw=true)
+![App Preview](https://github.com/fabianacostagloria/plantmanager/PlantManager.png)
 
 ---
 
